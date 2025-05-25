@@ -201,7 +201,7 @@ body {
 .skills li {
   display: inline-block;
   background: none;
-  color: #fff;
+  color: #000000;
   padding: 14px 28px;
   border-radius: 20px;
   font-size: 1.3em;
